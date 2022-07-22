@@ -133,28 +133,3 @@ button:hover {
   color: red;
   font-size: 16px;
 }
-
-.hero {
-  width: 100%;
-  min-height: 100vh;
-  background: radial-gradient(ellipse at left bottom, #283048 0%, #859398 100%);
-}
-
-.hero nav {
-  background: #662e71;
-  width: 100%;
-  padding: 20px 40px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.hero nav h2 {
-  color: #fff;
-}
-
-.hero nav button {
-  width: 86px;
-  padding: 8px 0;
-  background: #3a2b58;
-}
